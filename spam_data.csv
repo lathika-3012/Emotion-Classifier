@@ -1,0 +1,9 @@
+message,label
+"Congratulations! You won a free ticket",spam
+"Can we meet tomorrow?",ham
+"Claim your prize now",spam
+"Are you coming to the party?",ham
+"Winner! Claim your reward",spam
+"Let's have lunch today",ham
+"Free entry in a contest",spam
+"Did you finish your homework?",ham
